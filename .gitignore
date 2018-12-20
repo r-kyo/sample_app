@@ -24,3 +24,6 @@
 
 # Ignore Spring files.
 /sprint/*.pid
+
+# アップロードされたテスト画像を無視する
+/public/uploads
